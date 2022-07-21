@@ -29,7 +29,11 @@
   row-gap: 18px;
 }
 
-.add-score .btn {
+.add-score form .btn {
   width: 67px;
-  margin-left: 60%;
+  margin-left: 71%;
+}
+
+input {
+  margin: 10px;
 }
