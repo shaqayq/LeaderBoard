@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#  Portfolio
+#  Leader Board
 
 > In this project I built the project for store the game score in API.
 
