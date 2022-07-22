@@ -1,7 +1,13 @@
+body {
+  background-image: url(./image/bg2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
 .container {
   margin: auto;
   width: 60%;
-  border: 1px solid black;
+  border: 1px solid #8391ff;
   margin-top: 47px;
   padding: 23px;
   border-radius: 8px;
@@ -20,7 +26,9 @@
 }
 
 .score-list table {
-  margin: 23px;
+  width: 300px;
+  margin-top: 23px;
+  border: 2px solid #fff;
 }
 
 .add-score {
@@ -30,8 +38,8 @@
 }
 
 .add-score form .btn {
-  width: 67px;
-  margin-left: 71%;
+  width: 87px;
+  margin-left: 65%;
 }
 
 input {
